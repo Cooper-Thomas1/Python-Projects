@@ -1,5 +1,4 @@
 
-
 def main(csvfile):
     """main function which calls calculation functions"""
     data = read_file(csvfile)
