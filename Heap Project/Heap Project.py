@@ -1,8 +1,6 @@
 class Heap:
-    """A basic heap.
-
-    You may use whatever implementation you like, though a leftist binary heap
-    is probably easiest to implement.
+    """
+    A basic heap.
     """
 
     def __init__(self, items=[], key=None, reverse=False):
